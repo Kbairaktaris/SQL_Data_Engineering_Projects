@@ -1,1 +1,1 @@
-SELECT 43 AS answer;
+SELECT 42 AS answer;
